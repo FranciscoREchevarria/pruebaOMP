@@ -16,7 +16,7 @@ int main()
 	std::cout << "Sumando Arreglos en Paralelo!\n";
 	float a[N], b[N], c[N];
 	int i;
-
+	srand(time(NULL));
 	for(int i = 0; i < N; i++)
 	{
 		a[i] = rand() % 100 + 1;
