@@ -36,7 +36,7 @@ int main()
 	imprimeArreglo(a);
 	std::cout << "Imprimiendo los primeros " << mostrar << " valores del arreglo b: " << std::endl;
 	imprimeArreglo(b);
-	std::cout << "Imprimiendo los primeros " << mostrar << " valores del arreglo x: " << std::endl;
+	std::cout << "Imprimiendo los primeros " << mostrar << " valores del arreglo c: " << std::endl;
 	imprimeArreglo(c);
 }
 
